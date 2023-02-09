@@ -11,6 +11,7 @@ scrapy = "*"
 mongoengine = "*"
 redis = "*"
 redis-lru = "*"
+selenium = "*"
 
 [dev-packages]
 
